@@ -1,4 +1,4 @@
-# Daniela Carvalho
+# Daniela de Carvalho Lançanova
 
 **Software Developer at Sicredi** · Python · APIs & system integrations  
 Software Engineering student · Based in Brazil
