@@ -15,4 +15,6 @@ I'm a Backend Developer at **Sicredi**, working with process automation (RPA), A
 
 ### 📫 Contact
 - **Email:** daniclancanova@gmail.com
-- **LinkedIn:** [[Connect with me](https://www.linkedin.com/)](https://www.linkedin.com/in/daniela-de-carvalho-lan%C3%A7anova-950b741b4/)
+- **LinkedIn:** [[Connect with me](https://www.linkedin.com/)]
+-
+- (https://www.linkedin.com/in/daniela-de-carvalho-lan%C3%A7anova-950b741b4/)
