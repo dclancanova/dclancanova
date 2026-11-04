@@ -1,20 +1,43 @@
-# Hi, I'm Daniela Carvalho 👋
+# Daniela Carvalho
 
-### Backend Developer | RPA, APIs & System Integrations
+**Software Developer at Sicredi** · Python · APIs & system integrations  
+Software Engineering student · Based in Brazil
 
-I'm a Backend Developer at **Sicredi**, working with process automation (RPA), API development, and system integrations to build efficient solutions and streamline business processes.
+---
 
-🎓 Currently pursuing a degree in **Software Engineering**.
+## About
 
-### 🚀 Areas of Interest
-- Backend Development
-- Robotic Process Automation (RPA)
-- REST APIs & System Integrations
-- Artificial Intelligence & Automation
-- Data Analytics & Business Intelligence
+I'm a software developer at Sicredi, where I work on systems, integrations and process automation. I joined the company three years ago in a business role and moved through business development analysis into software development, which gave me a close understanding of the processes and systems the software I build is meant to support.
 
-### 📫 Contact
-- **Email:** daniclancanova@gmail.com
-- **LinkedIn:** [[Connect with me](https://www.linkedin.com/)]
--
-- (https://www.linkedin.com/in/daniela-de-carvalho-lan%C3%A7anova-950b741b4/)
+I'm now deepening my engineering foundation through my Software Engineering degree and hands-on work, with a focus on backend development and system integrations.
+
+## Career Path
+
+- **Software Developer**: current role
+- **Business Development Analyst I & II**: process automation, CRM, digital communication, data analysis
+- **Business Assistant**: member service and business operations
+
+## Focus Areas
+
+- Backend development and REST APIs
+- System integrations
+- Process automation
+- Microservices
+
+## Technologies
+
+**At work:** Python · NestJS (TypeScript) · REST APIs and integrations
+
+**Business-side tools:** Salesforce (CRM for member service) · Botmaker
+
+**Studying:** Lógica de programação e algoritmos, Banco de dados relacional, Manipulação em sistemas operacionais.. 
+
+
+## Projects
+
+<!-- Featured project goes here after Stage 3. -->
+
+## Contact
+
+- Email: daniclancanova@gmail.com
+- LinkedIn: [Daniela de Carvalho Lançanova](https://www.linkedin.com/in/daniela-de-carvalho-lan%C3%A7anova-950b741b4/)
